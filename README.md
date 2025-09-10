@@ -1,4 +1,3 @@
-<img width="469" height="1088" alt="image" src="https://github.com/user-attachments/assets/4e32cd06-05ab-4857-a37f-8ba104c8ef7d" /># FaceID Server
 
 A **Flask-based REST API** for face registration and recognition.  
 Built with **Python**, **Flask**, **MySQL**, and **face_recognition**.
@@ -18,7 +17,7 @@ faceid_server/
 ├── temp.jpg
 
 
-<img width="1654" height="2339" alt="1" src="https://github.com/user-attachments/assets/babc9dac-a299-4fdb-a642-fbb4592fb43e" />
+<img width="1000" height="2000" alt="1" src="https://github.com/user-attachments/assets/babc9dac-a299-4fdb-a642-fbb4592fb43e" />
 
-<img width="1654" height="2339" alt="2" src="https://github.com/user-attachments/assets/ace28dfc-923b-4f75-90c7-66a9d7cf2c26" />
+<img width="1000" height="2000" alt="2" src="https://github.com/user-attachments/assets/ace28dfc-923b-4f75-90c7-66a9d7cf2c26" />
 
