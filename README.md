@@ -17,7 +17,7 @@ faceid_server/
 ├── temp.jpg
 
 
-<img width="1000" height="2000" alt="1" src="https://github.com/user-attachments/assets/babc9dac-a299-4fdb-a642-fbb4592fb43e" />
+<img width="500" height="1000" alt="1" src="https://github.com/user-attachments/assets/babc9dac-a299-4fdb-a642-fbb4592fb43e" />
 
-<img width="1000" height="2000" alt="2" src="https://github.com/user-attachments/assets/ace28dfc-923b-4f75-90c7-66a9d7cf2c26" />
+<img width="500" height="1000" alt="2" src="https://github.com/user-attachments/assets/ace28dfc-923b-4f75-90c7-66a9d7cf2c26" />
 
