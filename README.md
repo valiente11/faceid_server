@@ -30,12 +30,13 @@ URL: /register
 Method: POST
 Description: Saves a new face encoding and links it to a user’s TC number.
 
+
+<img width="500" height="1000" alt="1" src="https://github.com/user-attachments/assets/babc9dac-a299-4fdb-a642-fbb4592fb43e" />
+
 🔹 Recognize Face
 URL: /recognize
 Method: POST
 Description: Compares the uploaded face with saved encodings and returns the matched TC number if found.
-
-<img width="500" height="1000" alt="1" src="https://github.com/user-attachments/assets/babc9dac-a299-4fdb-a642-fbb4592fb43e" />
 
 <img width="500" height="1000" alt="2" src="https://github.com/user-attachments/assets/ace28dfc-923b-4f75-90c7-66a9d7cf2c26" />
 
